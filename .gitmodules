@@ -1,0 +1,6 @@
+[submodule "bash-tools"]
+	path = bash-tools
+	url = https://github.com/nholuongut/DevOps-Bash-tools
+[submodule "lib"]
+	path = lib
+	url = https://github.com/nholuongut/lib-java
